@@ -1,0 +1,6 @@
+C:\Users\Владислав\Desktop\MatrixC#09.01\TestMatrix\obj\Debug\net6.0\TestMatrix.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\MatrixC#09.01\TestMatrix\obj\Debug\net6.0\TestMatrix.csproj.ResolveComReference.cache
+C:\Users\Владислав\Desktop\MatrixC#09.01\TestMatrix\obj\Debug\net6.0\TestMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\MatrixC#09.01\TestMatrix\obj\Debug\net6.0\TestMatrix.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\MatrixC#09.01\TestMatrix\obj\Debug\net6.0\TestMatrix.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\MatrixC#09.01\TestMatrix\obj\Debug\net6.0\TestMatrix.csproj.CoreCompileInputs.cache
